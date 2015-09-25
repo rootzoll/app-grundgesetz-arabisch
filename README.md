@@ -54,3 +54,9 @@ to a one 1page-HTML5 file displayed in the app.
 The icons are taken from the Wikipedia article about the German constitution
 
 https://de.wikipedia.org/wiki/Grundgesetz_f%C3%BCr_die_Bundesrepublik_Deutschland#/media/File:N37W4N_255x400.jpg
+
+## Code License
+
+GNU GENERAL PUBLIC LICENSE Version 2
+
+see LICENSE file for detailed info
