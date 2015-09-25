@@ -1,6 +1,6 @@
 # app-grundgesetz-arabisch
 
-mobile app for iOS and Android simply displaying the German Constitution
+mobile app for iOS and Android simply displaying the German Constitution in arabic
 
 ## Install on Smartphone
 
@@ -14,12 +14,11 @@ The app is using cordova supported by the ionic framework. Make sure to have the
 npm install -g cordova@5.3.1 ionic@1.6.4
 ```
 
-Then add platforms and plugins
+Then add platforms
 
 ```
 cordova platform add android
 cordova platform add ios
-cordova plugin add https://github.com/gbenvenuti/cordova-plugin-screen-orientation
 ```
 
 fire up a android simulator or connect a device and deploy app to it
