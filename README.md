@@ -1,6 +1,7 @@
 # app-grundgesetz-arabisch
 
 mobile app for iOS and Android simply displaying the German Constitution in arabic
+
 contribution to refugeehackathon
 
 ## Install on Smartphone
